@@ -1,0 +1,19 @@
+.container{
+    background-color: aqua;
+}
+.bg1 {
+    background-color: bisque;
+    border: 2px solid black;
+}
+.bg2 {
+    background-color:blueviolet;
+    border: 2px solid black;
+}
+.bg3 {
+    background-color:brown;
+    border: 2px solid black;
+}
+.bg4 {
+    background-color:rgb(194, 11, 11);
+    border: 2px solid black;
+}
